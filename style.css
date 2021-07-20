@@ -1,0 +1,30 @@
+#blog iframe {
+
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: white;
+}
+
+img {
+    width: 100%;
+
+}
+
+h2 {
+    background-color: white;
+}
+
+p {
+    background-color: white;
+    text-decoration-color: white;
+}
